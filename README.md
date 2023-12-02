@@ -22,4 +22,4 @@ We are going to use different technologies such as Python, Amazon Web Services (
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
 
-Here is the dataset used (https://github.com/akashx01/stock_market_real_time_data_analysis_project/blob/main/indexProcessed.csv)https://github.com/akashx01/stock_market_real_time_data_analysis_project/blob/main/indexProcessed.csv
+Here is the dataset used - https://github.com/akashx01/stock_market_real_time_data_analysis_project/blob/main/indexProcessed.csv
